@@ -1,0 +1,1500 @@
+PlantNo,Width,Age,Temperature,Rain expected in 2 weeks,SoilType,WhiteRoots,PestAttacks,FloweringSeason,Result
+No1,25,7,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No2,19,7,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No3,22,6,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No4,20,8,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No5,18,6,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No6,19,6,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No7,25,6,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No8,23,7,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No9,25,8,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No10,22,8,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No11,22,8,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No12,18,5,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No13,24,5,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No14,18,5,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No15,21,6,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No16,18,5,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No17,22,7,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No18,24,5,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No19,18,8,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No20,18,5,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No21,20,5,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No22,21,8,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No23,20,7,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No24,22,6,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No25,23,8,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No26,22,5,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No27,20,5,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No28,22,5,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No29,23,5,29,No,Reddish-Brown,No,No,No,Ready for inoculation
+No30,21,6,30,No,Reddish-Brown,No,No,No,Ready for inoculation
+No31,21,6,29,No,Reddish-Brown,No,No,No,Ready for inoculation
+No32,23,7,29,No,Reddish-Brown,No,No,No,Ready for inoculation
+No33,19,8,30,No,Reddish-Brown,No,No,No,Ready for inoculation
+No34,23,5,31,No,Reddish-Brown,No,No,No,Ready for inoculation
+No35,23,8,30,No,Reddish-Brown,No,No,No,Ready for inoculation
+No36,18,8,28,No,Reddish-Brown,No,No,No,Ready for inoculation
+No37,24,7,30,No,Reddish-Brown,No,No,No,Ready for inoculation
+No38,18,5,29,No,Reddish-Brown,No,No,No,Ready for inoculation
+No39,19,8,31,No,Reddish-Brown,No,No,No,Ready for inoculation
+No40,19,8,28,No,Reddish-Brown,No,No,No,Ready for inoculation
+No41,21,8,31,No,Reddish-Brown,No,No,No,Ready for inoculation
+No42,24,7,28,No,Reddish-Brown,No,No,No,Ready for inoculation
+No43,21,6,30,No,Reddish-Brown,No,No,No,Ready for inoculation
+No44,24,5,28,No,Reddish-Brown,No,No,No,Ready for inoculation
+No45,19,5,29,No,Reddish-Brown,No,No,No,Ready for inoculation
+No46,18,6,28,No,Reddish-Brown,No,No,No,Ready for inoculation
+No47,25,5,31,No,Reddish-Brown,No,No,No,Ready for inoculation
+No48,18,5,28,No,Reddish-Brown,No,No,No,Ready for inoculation
+No49,21,8,31,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No50,20,7,30,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No51,23,5,29,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No52,18,7,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No53,20,5,29,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No54,18,6,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No55,23,8,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No56,25,5,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No57,20,6,31,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No58,24,7,29,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No59,19,6,31,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No60,25,7,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No61,23,7,31,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No62,25,5,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No63,23,7,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No64,21,7,31,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No65,25,7,29,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No66,24,6,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No67,20,6,31,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No68,25,7,30,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No69,18,7,30,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No70,20,6,30,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No71,18,5,29,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No72,21,7,29,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No73,18,6,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No74,24,6,30,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No75,22,5,30,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No76,22,7,29,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No77,19,7,31,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No78,24,8,31,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No79,23,8,29,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No80,18,7,29,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No81,22,5,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No82,19,7,29,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No83,21,5,30,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No84,20,6,29,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No85,24,7,30,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No86,22,6,30,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No87,18,5,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No88,20,7,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No89,21,8,30,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No90,22,5,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No91,18,5,31,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No92,23,5,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No93,24,5,30,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No94,20,8,30,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No95,25,7,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No96,21,6,29,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No97,19,7,30,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No98,21,8,31,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No99,25,8,29,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No100,22,5,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No101,25,8,29,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No102,22,7,30,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No103,25,6,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No104,19,6,31,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No105,20,6,30,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No106,18,7,29,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No107,18,6,31,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No108,25,8,29,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No109,21,5,30,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No110,23,5,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No111,21,8,31,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No112,23,6,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No113,21,5,30,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No114,24,6,30,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No115,20,7,29,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No116,22,7,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No117,22,8,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No118,24,5,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No119,22,8,29,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No120,19,6,29,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No121,19,7,30,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No122,19,6,29,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No123,21,6,29,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No124,22,5,31,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No125,23,6,30,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No126,24,5,30,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No127,23,5,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No128,21,8,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No129,23,5,28,No,Reddish-Brown,No,No,Yes,Ready for inoculation
+No130,21,5,30,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No131,18,5,29,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No132,23,7,29,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No133,23,8,30,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No134,22,8,31,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No135,21,6,29,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No136,21,7,28,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No137,21,6,28,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No138,24,7,29,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No139,19,6,31,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No140,20,6,28,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No141,20,6,31,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No142,18,5,29,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No143,24,7,30,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No144,24,5,30,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No145,24,7,29,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No146,23,5,31,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No147,18,7,31,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No148,25,8,30,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No149,22,7,30,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No150,23,5,31,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No151,18,8,29,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No152,21,6,30,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No153,24,5,28,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No154,22,6,28,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No155,24,7,29,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No156,24,6,29,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No157,24,8,31,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No158,22,8,28,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No159,18,8,30,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No160,21,7,30,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No161,24,5,31,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No162,24,8,28,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No163,21,7,31,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No164,21,8,29,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No165,25,6,29,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No166,25,7,29,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No167,20,8,29,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No168,24,7,28,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No169,24,5,29,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No170,21,5,31,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No171,22,8,31,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No172,20,6,30,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No173,21,8,29,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No174,23,8,28,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No175,23,5,31,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No176,21,5,29,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No177,25,7,29,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No178,18,7,28,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No179,21,6,30,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No180,19,7,28,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No181,25,8,29,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No182,19,8,28,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No183,20,5,31,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No184,24,6,28,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No185,21,6,31,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No186,23,7,31,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No187,18,6,31,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No188,22,7,29,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No189,22,7,31,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No190,19,6,31,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No191,24,8,31,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No192,20,8,31,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No193,24,7,29,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No194,19,5,29,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No195,25,8,28,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No196,23,6,31,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No197,23,6,31,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No198,21,7,30,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No199,22,7,30,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No200,25,7,28,No,Red-Yellow,No,No,Yes,Ready for inoculation
+No201,25,6,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No202,19,8,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No203,18,8,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No204,18,8,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No205,25,7,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No206,25,6,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No207,18,8,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No208,19,5,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No209,22,6,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No210,23,7,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No211,19,7,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No212,21,8,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No213,21,5,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No214,18,6,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No215,18,7,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No216,19,7,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No217,23,6,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No218,24,5,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No219,25,6,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No220,24,8,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No221,20,7,30,No,Reddish-Brown,No,No,No,Ready for inoculation
+No222,20,8,30,No,Reddish-Brown,No,No,No,Ready for inoculation
+No223,19,8,29,No,Reddish-Brown,No,No,No,Ready for inoculation
+No224,25,8,29,No,Reddish-Brown,No,No,No,Ready for inoculation
+No225,19,7,31,No,Reddish-Brown,No,No,No,Ready for inoculation
+No226,23,8,30,No,Reddish-Brown,No,No,No,Ready for inoculation
+No227,21,5,31,No,Reddish-Brown,No,No,No,Ready for inoculation
+No228,24,6,30,No,Reddish-Brown,No,No,No,Ready for inoculation
+No229,23,7,28,No,Reddish-Brown,No,No,No,Ready for inoculation
+No230,21,8,29,No,Reddish-Brown,No,No,No,Ready for inoculation
+No231,21,7,31,No,Reddish-Brown,No,No,No,Ready for inoculation
+No232,21,8,28,No,Reddish-Brown,No,No,No,Ready for inoculation
+No233,24,7,31,No,Reddish-Brown,No,No,No,Ready for inoculation
+No234,20,8,30,No,Reddish-Brown,No,No,No,Ready for inoculation
+No235,25,5,28,No,Reddish-Brown,No,No,No,Ready for inoculation
+No236,23,8,30,No,Reddish-Brown,No,No,No,Ready for inoculation
+No237,24,8,31,No,Reddish-Brown,No,No,No,Ready for inoculation
+No238,22,6,30,No,Reddish-Brown,No,No,No,Ready for inoculation
+No239,21,7,30,No,Reddish-Brown,No,No,No,Ready for inoculation
+No240,21,7,31,No,Reddish-Brown,No,No,No,Ready for inoculation
+No241,23,7,31,No,Reddish-Brown,No,No,No,Ready for inoculation
+No242,19,8,29,No,Reddish-Brown,No,No,No,Ready for inoculation
+No243,18,6,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No244,23,7,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No245,23,6,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No246,22,5,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No247,18,8,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No248,25,8,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No249,25,5,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No250,22,5,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No251,23,6,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No252,23,5,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No253,21,6,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No254,22,5,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No255,20,6,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No256,18,6,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No257,18,7,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No258,21,5,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No259,18,5,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No260,22,7,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No261,24,5,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No262,19,6,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No263,24,8,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No264,25,7,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No265,20,7,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No266,18,7,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No267,19,5,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No268,25,6,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No269,24,6,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No270,20,7,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No271,22,8,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No272,25,6,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No273,21,7,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No274,20,5,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No275,25,5,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No276,23,8,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No277,23,5,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No278,23,6,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No279,22,7,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No280,20,8,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No281,19,6,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No282,24,6,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No283,22,5,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No284,19,6,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No285,22,8,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No286,23,8,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No287,20,6,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No288,24,8,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No289,25,5,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No290,25,5,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No291,19,5,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No292,23,8,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No293,24,5,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No294,24,7,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No295,19,6,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No296,19,5,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No297,25,6,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No298,23,7,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No299,19,5,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No300,20,7,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No301,22,8,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No302,22,8,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No303,21,7,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No304,19,8,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No305,24,6,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No306,24,6,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No307,24,7,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No308,25,6,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No309,19,7,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No310,25,6,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No311,18,7,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No312,25,6,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No313,20,8,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No314,20,7,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No315,19,7,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No316,23,6,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No317,22,8,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No318,25,8,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No319,24,8,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No320,19,5,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No321,20,5,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No322,24,6,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No323,22,7,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No324,24,5,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No325,22,7,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No326,21,5,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No327,18,7,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No328,21,7,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No329,25,6,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No330,19,7,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No331,20,5,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No332,22,6,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No333,20,7,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No334,20,6,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No335,20,6,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No336,20,5,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No337,23,5,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No338,21,8,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No339,18,5,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No340,18,8,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No341,23,8,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No342,20,5,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No343,24,6,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No344,24,5,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No345,25,8,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No346,21,6,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No347,18,5,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No348,18,5,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No349,19,8,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No350,22,8,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No351,20,8,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No352,20,8,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No353,19,7,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No354,19,7,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No355,25,6,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No356,25,7,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No357,24,6,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No358,24,8,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No359,18,5,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No360,24,6,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No361,20,6,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No362,18,7,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No363,22,5,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No364,18,7,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No365,25,6,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No366,20,7,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No367,24,8,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No368,23,6,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No369,20,7,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No370,21,5,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No371,21,5,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No372,24,8,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No373,20,6,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No374,24,6,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No375,20,8,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No376,23,5,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No377,19,7,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No378,20,8,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No379,23,6,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No380,21,7,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No381,20,8,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No382,23,5,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No383,18,6,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No384,19,6,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No385,22,8,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No386,21,7,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No387,19,8,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No388,18,6,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No389,22,6,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No390,21,6,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No391,25,7,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No392,21,5,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No393,21,6,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No394,23,6,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No395,23,8,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No396,24,5,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No397,24,5,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No398,21,7,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No399,18,7,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No400,25,5,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No401,18,8,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No402,19,8,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No403,25,5,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No404,23,5,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No405,21,5,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No406,20,7,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No407,22,7,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No408,24,8,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No409,24,7,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No410,18,8,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No411,24,6,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No412,21,7,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No413,21,5,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No414,22,7,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No415,22,6,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No416,22,8,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No417,22,5,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No418,20,5,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No419,25,5,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No420,25,6,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No421,19,5,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No422,24,7,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No423,22,6,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No424,25,8,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No425,24,5,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No426,18,5,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No427,19,7,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No428,25,8,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No429,24,8,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No430,19,5,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No431,18,6,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No432,20,8,30,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No433,23,8,31,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No434,25,5,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No435,19,5,29,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No436,20,5,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No437,18,6,28,No,Red-Yellow,No,Yes,No,Ready for inoculation. Harvest might be affected
+No438,25,8,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No439,22,5,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No440,19,6,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No441,25,5,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No442,21,6,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No443,25,6,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No444,20,7,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No445,20,8,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No446,22,5,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No447,22,7,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No448,23,6,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No449,19,7,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No450,23,6,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No451,18,7,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No452,25,6,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No453,19,5,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No454,19,6,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No455,20,5,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No456,21,6,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No457,22,8,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No458,19,5,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No459,22,5,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No460,22,8,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No461,23,7,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No462,18,6,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No463,21,5,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No464,19,6,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No465,19,5,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No466,24,6,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No467,21,6,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No468,21,7,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No469,21,6,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No470,25,7,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No471,21,6,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No472,19,8,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No473,24,5,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No474,18,6,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No475,19,5,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No476,20,7,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No477,22,8,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No478,19,8,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No479,19,5,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No480,23,7,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No481,22,5,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No482,25,7,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No483,25,8,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No484,25,7,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No485,21,5,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No486,23,5,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No487,25,8,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No488,18,5,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No489,19,6,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No490,25,5,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No491,22,6,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No492,25,6,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No493,25,7,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No494,18,5,29,No,Red-Yellow,No,No,No,Ready for inoculation
+No495,22,7,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No496,19,7,30,No,Red-Yellow,No,No,No,Ready for inoculation
+No497,19,6,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No498,21,7,31,No,Red-Yellow,No,No,No,Ready for inoculation
+No499,18,5,28,No,Red-Yellow,No,No,No,Ready for inoculation
+No500,23,6,30,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No501,23,7,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No502,23,5,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No503,24,6,31,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No504,20,5,30,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No505,25,8,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No506,20,8,29,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No507,25,8,30,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No508,23,5,30,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No509,25,7,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No510,22,5,31,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No511,24,7,29,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No512,18,8,30,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No513,18,6,31,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No514,24,5,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No515,21,7,31,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No516,22,7,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No517,23,5,31,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No518,22,5,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No519,20,5,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No520,25,5,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No521,21,8,29,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No522,18,7,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No523,25,6,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No524,18,8,29,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No525,18,6,29,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No526,18,7,31,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No527,25,8,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No528,24,6,31,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No529,23,7,29,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No530,25,8,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No531,18,8,31,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No532,18,7,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No533,24,7,30,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No534,22,6,31,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No535,19,7,30,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No536,24,8,30,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No537,18,5,29,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No538,21,7,30,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No539,20,8,31,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No540,20,7,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No541,22,5,31,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No542,23,5,30,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No543,19,8,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No544,18,5,30,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No545,20,8,31,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No546,21,6,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No547,18,7,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No548,25,5,29,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No549,19,7,29,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No550,20,8,31,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No551,21,8,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No552,20,7,29,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No553,25,5,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No554,24,8,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No555,24,5,31,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No556,19,6,30,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No557,22,6,29,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No558,18,6,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No559,19,7,30,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No560,25,7,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No561,23,8,29,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No562,24,6,30,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No563,22,5,31,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No564,24,7,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No565,24,5,30,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No566,22,6,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No567,23,5,30,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No568,18,7,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No569,24,7,29,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No570,25,6,31,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No571,21,6,29,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No572,20,7,31,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No573,19,5,29,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No574,19,5,29,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No575,20,8,31,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No576,20,7,31,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No577,24,7,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No578,24,7,29,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No579,20,5,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No580,22,6,31,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No581,20,8,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No582,20,8,31,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No583,18,6,30,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No584,23,7,29,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No585,23,7,30,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No586,19,6,29,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No587,23,5,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No588,22,6,30,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No589,18,5,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No590,19,7,28,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No591,25,6,29,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No592,18,6,31,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No593,20,5,29,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No594,25,6,29,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No595,18,8,29,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No596,19,6,30,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No597,19,6,30,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No598,23,6,30,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No599,24,6,30,Yes,Red-Yellow,No,No,No,Ready for inoculation. Harvest might be affected
+No600,24,6,28,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No601,23,5,30,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No602,19,6,31,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No603,22,8,28,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No604,25,5,28,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No605,19,6,30,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No606,23,8,30,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No607,23,7,31,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No608,18,6,31,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No609,23,6,31,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No610,25,7,30,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No611,21,8,31,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No612,18,6,29,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No613,24,5,28,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No614,18,7,28,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No615,20,5,31,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No616,21,7,29,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No617,23,8,31,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No618,20,6,28,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No619,24,7,31,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No620,20,7,29,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No621,25,6,30,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No622,21,6,31,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No623,21,5,30,Yes,Reddish-Brown,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No624,21,7,28,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No625,20,6,30,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No626,20,6,31,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No627,22,7,30,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No628,22,8,28,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No629,20,5,31,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No630,22,8,28,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No631,21,7,31,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No632,21,8,28,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No633,22,6,29,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No634,20,5,30,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No635,19,7,29,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No636,23,5,31,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No637,19,5,29,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No638,25,6,30,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No639,19,6,31,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No640,18,8,28,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No641,24,8,31,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No642,22,5,28,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No643,25,5,30,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No644,18,7,28,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No645,18,8,30,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No646,20,8,29,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No647,23,6,29,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No648,25,5,30,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No649,24,8,31,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No650,22,8,28,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No651,20,7,29,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No652,20,8,30,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No653,24,6,31,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No654,20,6,28,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No655,21,8,30,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No656,21,6,29,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No657,20,5,30,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No658,23,8,31,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No659,23,7,29,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No660,19,7,30,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No661,20,7,30,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No662,21,8,30,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No663,18,8,28,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No664,20,8,28,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No665,21,7,29,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No666,23,7,28,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No667,22,6,29,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No668,21,6,31,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No669,20,5,30,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No670,21,7,31,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No671,24,8,29,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No672,19,5,30,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No673,24,6,31,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No674,19,5,28,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No675,24,8,29,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No676,25,6,29,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No677,18,6,30,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No678,24,7,28,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No679,23,5,30,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No680,23,6,30,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No681,18,6,28,No,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No682,25,5,30,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No683,19,5,30,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No684,18,5,29,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No685,24,8,28,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No686,21,5,28,Yes,Red-Yellow,Yes,Yes,No,Disease infected.Wait until the tree recovers
+No687,19,6,29,Yes,Red-Yellow,Yes,Yes,Yes,Disease infected.Wait until the tree recovers
+No688,24,6,28,Yes,Red-Yellow,Yes,Yes,Yes,Disease infected.Wait until the tree recovers
+No689,20,7,30,Yes,Red-Yellow,Yes,Yes,Yes,Disease infected.Wait until the tree recovers
+No690,21,8,28,Yes,Red-Yellow,Yes,Yes,Yes,Disease infected.Wait until the tree recovers
+No691,21,7,30,Yes,Red-Yellow,Yes,Yes,Yes,Disease infected.Wait until the tree recovers
+No692,21,8,30,Yes,Red-Yellow,Yes,Yes,Yes,Disease infected.Wait until the tree recovers
+No693,24,5,29,Yes,Red-Yellow,Yes,Yes,Yes,Disease infected.Wait until the tree recovers
+No694,25,6,29,Yes,Red-Yellow,Yes,Yes,Yes,Disease infected.Wait until the tree recovers
+No695,22,8,30,Yes,Red-Yellow,Yes,Yes,Yes,Disease infected.Wait until the tree recovers
+No696,18,7,31,Yes,Red-Yellow,Yes,Yes,Yes,Disease infected.Wait until the tree recovers
+No697,20,7,28,Yes,Red-Yellow,Yes,Yes,Yes,Disease infected.Wait until the tree recovers
+No698,22,6,30,Yes,Red-Yellow,Yes,Yes,Yes,Disease infected.Wait until the tree recovers
+No699,23,6,31,Yes,Reddish-Brown,Yes,Yes,Yes,Disease infected.Wait until the tree recovers
+No700,21,7,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No701,19,5,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No702,21,5,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No703,20,7,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No704,22,7,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No705,19,6,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No706,18,5,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No707,25,6,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No708,18,5,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No709,25,7,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No710,25,7,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No711,19,6,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No712,23,7,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No713,21,7,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No714,18,8,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No715,21,6,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No716,19,8,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No717,20,5,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No718,20,7,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No719,24,7,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No720,25,5,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No721,25,5,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No722,22,6,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No723,20,6,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No724,18,6,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No725,24,8,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No726,24,7,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No727,18,6,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No728,21,8,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No729,19,6,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No730,22,8,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No731,18,6,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No732,22,7,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No733,18,6,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No734,19,7,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No735,20,8,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No736,24,7,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No737,25,8,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No738,21,8,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No739,25,6,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No740,18,8,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No741,22,5,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No742,20,6,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No743,18,6,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No744,22,8,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No745,21,5,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No746,20,5,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No747,21,8,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No748,20,7,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No749,18,8,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No750,22,5,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No751,25,5,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No752,19,5,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No753,22,7,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No754,23,7,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No755,20,6,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No756,19,5,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No757,19,5,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No758,22,8,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No759,18,5,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No760,25,5,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No761,18,7,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No762,20,8,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No763,25,6,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No764,20,6,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No765,18,8,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No766,21,5,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No767,19,5,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No768,25,7,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No769,21,7,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No770,24,6,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No771,23,7,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No772,24,7,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No773,24,5,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No774,20,8,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No775,23,5,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No776,20,8,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No777,19,6,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No778,22,7,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No779,22,8,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No780,25,6,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No781,23,5,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No782,23,5,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No783,20,5,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No784,18,7,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No785,23,6,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No786,23,5,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No787,25,6,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No788,23,5,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No789,23,8,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No790,18,8,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No791,20,8,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No792,21,5,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No793,25,6,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No794,24,5,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No795,21,6,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No796,19,5,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No797,21,5,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No798,22,8,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No799,23,8,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No800,18,5,30,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No801,20,8,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No802,19,6,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No803,23,7,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No804,22,8,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No805,22,7,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No806,20,5,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No807,20,5,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No808,22,8,30,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No809,24,8,30,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No810,22,8,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No811,25,7,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No812,24,5,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No813,22,7,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No814,24,8,30,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No815,23,5,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No816,25,5,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No817,22,7,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No818,25,5,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No819,21,6,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No820,24,5,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No821,22,7,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No822,22,8,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No823,22,5,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No824,23,8,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No825,20,5,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No826,19,5,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No827,18,5,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No828,21,8,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No829,18,6,30,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No830,24,5,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No831,19,8,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No832,23,5,30,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No833,20,6,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No834,18,6,30,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No835,19,5,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No836,25,8,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No837,25,5,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No838,23,7,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No839,18,8,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No840,21,7,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No841,22,8,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No842,25,8,30,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No843,21,8,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No844,25,7,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No845,23,6,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No846,18,7,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No847,18,6,30,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No848,24,5,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No849,25,5,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No850,24,7,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No851,25,7,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No852,18,6,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No853,24,5,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No854,19,5,30,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No855,23,7,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No856,21,8,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No857,21,8,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No858,21,7,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No859,22,7,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No860,24,7,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No861,20,6,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No862,19,6,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No863,25,5,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No864,19,7,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No865,22,5,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No866,25,6,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No867,20,8,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No868,22,7,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No869,24,5,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No870,21,7,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No871,23,5,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No872,19,8,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No873,25,6,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No874,18,7,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No875,20,5,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No876,23,7,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No877,21,7,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No878,22,7,30,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No879,22,7,30,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No880,23,6,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No881,18,5,30,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No882,21,7,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No883,25,6,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No884,19,5,30,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No885,19,6,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No886,19,7,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No887,21,5,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No888,21,6,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No889,24,7,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No890,22,7,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No891,19,5,30,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No892,23,8,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No893,20,6,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No894,21,7,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No895,25,8,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No896,20,8,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No897,20,5,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No898,25,8,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No899,25,8,30,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No900,22,5,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No901,21,8,30,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No902,22,6,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No903,23,6,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No904,23,8,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No905,19,6,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No906,18,6,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No907,21,7,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No908,25,5,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No909,24,5,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No910,21,7,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No911,24,7,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No912,20,5,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No913,18,5,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No914,24,8,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No915,20,5,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No916,23,6,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No917,23,5,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No918,20,7,30,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No919,23,7,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No920,22,5,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No921,21,7,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No922,24,6,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No923,21,8,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No924,21,5,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No925,23,5,28,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No926,20,5,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No927,24,6,29,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No928,23,6,31,Yes,Reddish-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No929,24,7,30,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No930,19,5,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No931,22,7,30,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No932,23,6,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No933,18,6,30,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No934,21,6,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No935,19,8,30,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No936,20,6,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No937,22,7,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No938,18,6,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No939,18,7,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No940,20,6,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No941,24,8,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No942,19,6,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No943,23,8,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No944,19,5,29,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No945,21,6,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No946,24,5,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No947,22,5,28,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No948,25,5,31,Yes,Red-Yellow,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No949,24,5,31,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No950,23,7,29,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No951,23,8,29,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No952,21,8,28,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No953,19,8,31,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No954,23,6,29,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No955,22,6,30,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No956,23,5,29,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No957,24,6,29,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No958,23,5,31,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No959,19,6,31,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No960,18,5,30,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No961,25,6,30,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No962,23,8,29,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No963,20,8,28,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No964,21,7,31,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No965,19,7,31,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No966,19,6,30,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No967,25,8,31,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No968,23,7,29,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No969,19,7,30,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No970,21,6,30,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No971,25,7,28,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No972,19,5,28,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No973,23,5,30,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No974,24,6,29,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No975,25,7,29,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No976,18,5,29,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No977,20,6,30,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No978,20,5,29,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No979,23,8,30,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No980,25,5,31,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No981,19,5,30,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No982,25,6,29,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No983,20,8,28,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No984,22,7,28,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No985,19,6,31,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No986,22,8,30,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No987,23,5,31,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No988,24,5,30,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No989,23,7,29,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No990,21,7,29,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No991,19,7,31,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No992,19,5,30,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No993,25,6,28,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No994,23,6,29,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No995,23,8,30,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No996,21,6,28,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No997,25,6,29,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No998,24,7,28,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No999,23,7,28,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No1000,23,6,28,Yes,Noncalic-Brown,Yes,No,Yes,Disease infected.Wait until the tree recovers
+No1001,12,5,28,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1002,17,6,31,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1003,14,7,31,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1004,15,5,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1005,15,8,29,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1006,14,7,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1007,13,7,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1008,15,8,28,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1009,13,8,31,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1010,16,6,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1011,16,8,28,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1012,12,5,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1013,13,5,31,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1014,14,6,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1015,13,6,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1016,12,8,29,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1017,17,5,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1018,12,6,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1019,12,5,28,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1020,12,8,28,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1021,17,7,31,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1022,13,7,28,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1023,17,6,28,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1024,14,6,29,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1025,15,6,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1026,15,8,31,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1027,17,8,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1028,14,5,28,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1029,13,6,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1030,17,6,28,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1031,17,8,28,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1032,16,6,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1033,15,5,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1034,14,7,29,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1035,12,5,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1036,14,6,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1037,15,5,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1038,17,5,29,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1039,16,6,29,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1040,15,6,31,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1041,17,5,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1042,13,5,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1043,12,5,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1044,15,8,31,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1045,17,7,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1046,13,6,29,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1047,12,6,28,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1048,15,7,31,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1049,16,7,31,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1050,15,6,28,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1051,15,6,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1052,17,7,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1053,13,5,29,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1054,14,6,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1055,16,5,28,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1056,17,7,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1057,16,8,29,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1058,13,6,28,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1059,13,8,29,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1060,16,8,29,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1061,13,5,31,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1062,12,6,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1063,16,6,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1064,12,8,31,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1065,12,6,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1066,15,6,28,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1067,14,7,29,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1068,16,6,31,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1069,13,5,31,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1070,12,5,29,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1071,12,8,28,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1072,12,8,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1073,17,6,28,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1074,13,8,28,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1075,16,6,28,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1076,17,5,31,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1077,17,8,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1078,16,8,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1079,16,8,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1080,15,7,29,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1081,14,6,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1082,13,6,29,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1083,16,6,31,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1084,17,6,31,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1085,16,7,31,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1086,17,5,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1087,14,5,31,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1088,13,6,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1089,13,5,31,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1090,14,7,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1091,12,6,31,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1092,13,5,28,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1093,13,6,28,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1094,15,8,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1095,17,8,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1096,15,5,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1097,16,5,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1098,14,8,31,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1099,13,5,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1100,13,5,28,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1101,12,7,29,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1102,16,5,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1103,12,8,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1104,14,6,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1105,17,5,29,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1106,16,5,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1107,12,7,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1108,14,5,29,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1109,12,8,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1110,13,5,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1111,17,5,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1112,16,6,29,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1113,15,7,29,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1114,13,5,29,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1115,16,6,32,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1116,15,6,31,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1117,16,5,28,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1118,15,5,30,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1119,15,5,29,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1120,15,6,29,No,Red-Yellow,No,No,No,Not ready for inoculation .Width is not enough
+No1121,13,7,30,No,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1122,14,6,30,No,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1123,15,8,28,No,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1124,17,6,30,No,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1125,12,5,32,No,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1126,17,5,32,No,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1127,14,6,31,No,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1128,16,7,29,No,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1129,16,8,28,No,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1130,15,8,31,No,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1131,15,8,29,No,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1132,13,7,32,No,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1133,15,7,31,No,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1134,15,5,32,No,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1135,17,6,31,No,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1136,14,7,29,No,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1137,15,6,29,No,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1138,15,6,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1139,13,8,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1140,13,5,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1141,14,7,30,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1142,13,5,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1143,15,5,30,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1144,17,8,29,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1145,16,7,32,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1146,16,8,32,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1147,13,7,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1148,16,7,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1149,13,8,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1150,16,5,32,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1151,15,6,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1152,12,5,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1153,14,8,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1154,14,5,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1155,13,6,32,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1156,15,6,32,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1157,17,8,30,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1158,13,7,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1159,13,7,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1160,13,5,32,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1161,15,5,29,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1162,15,7,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1163,13,7,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1164,17,5,30,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1165,17,7,30,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1166,15,6,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1167,15,6,32,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1168,17,5,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1169,14,6,32,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1170,17,8,32,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1171,17,8,29,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1172,13,7,29,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1173,14,8,30,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1174,16,7,30,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1175,13,7,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1176,16,8,29,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1177,14,7,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1178,17,7,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1179,12,7,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1180,16,5,29,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1181,16,6,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1182,16,8,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1183,12,7,30,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1184,12,6,32,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1185,12,6,30,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1186,16,8,30,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1187,15,8,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1188,14,5,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1189,15,5,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1190,13,6,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1191,13,6,32,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1192,15,6,30,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1193,16,7,32,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1194,12,8,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1195,16,8,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1196,17,5,30,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1197,13,7,32,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1198,16,6,29,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1199,16,8,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1200,15,5,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1201,16,8,32,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1202,16,5,30,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1203,12,7,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1204,12,5,30,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1205,16,7,30,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1206,17,5,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1207,13,8,32,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1208,17,5,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1209,16,6,29,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1210,13,8,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1211,13,6,32,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1212,12,6,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1213,14,8,30,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1214,12,8,32,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1215,13,5,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1216,14,6,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1217,17,5,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1218,15,5,30,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1219,14,8,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1220,12,8,29,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1221,16,6,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1222,14,6,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1223,16,5,32,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1224,13,7,29,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1225,14,8,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation .Width is not enough
+No1226,16,5,30,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1227,12,7,28,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1228,16,5,29,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1229,13,6,31,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1230,12,5,30,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1231,14,7,31,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1232,15,5,28,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1233,17,7,30,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1234,17,5,30,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1235,13,8,30,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1236,12,6,31,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1237,13,5,29,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1238,17,7,31,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1239,12,7,31,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1240,16,5,31,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1241,12,5,28,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1242,12,8,32,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1243,16,7,32,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1244,15,8,28,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1245,14,5,32,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1246,15,8,28,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1247,14,7,28,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1248,16,5,28,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1249,13,6,32,Yes,Reddish-Brown,No,Yes,No,Not ready for inoculation .Width is not enough
+No1250,18,2,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1251,19,2,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1252,18,4,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1253,18,4,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1254,19,3,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1255,18,4,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1256,20,4,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1257,20,2,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1258,19,4,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1259,19,3,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1260,20,3,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1261,20,2,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1262,20,4,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1263,18,2,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1264,20,2,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1265,19,2,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1266,20,4,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1267,19,2,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1268,18,4,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1269,20,2,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1270,20,2,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1271,20,4,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1272,20,2,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1273,20,3,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1274,20,2,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1275,20,4,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1276,18,2,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1277,19,2,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1278,19,2,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1279,19,4,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1280,20,2,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1281,20,2,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1282,18,2,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1283,18,4,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1284,19,3,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1285,18,3,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1286,20,3,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1287,18,3,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1288,20,3,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1289,19,2,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1290,19,2,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1291,19,2,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1292,18,2,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1293,20,4,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1294,18,4,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1295,19,4,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1296,19,2,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1297,19,2,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1298,18,4,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1299,20,3,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1300,20,2,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1301,18,2,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1302,18,4,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1303,19,2,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1304,20,2,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1305,19,3,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1306,19,3,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1307,18,4,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1308,18,4,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1309,20,3,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1310,20,4,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1311,18,4,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1312,19,2,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1313,19,3,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1314,20,2,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1315,19,4,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1316,18,3,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1317,20,2,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1318,20,4,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1319,19,4,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1320,18,2,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1321,19,2,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1322,20,2,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1323,18,3,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1324,18,4,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1325,20,2,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1326,19,3,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1327,18,2,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1328,20,2,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1329,20,3,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1330,19,4,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1331,18,2,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1332,20,3,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1333,19,4,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1334,19,3,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1335,18,3,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1336,19,2,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1337,19,2,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1338,18,3,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1339,20,4,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1340,18,4,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1341,20,3,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1342,20,3,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1343,20,2,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1344,18,4,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1345,20,3,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1346,18,4,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1347,20,3,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1348,18,4,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1349,19,2,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1350,18,4,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1351,20,4,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1352,18,4,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1353,19,2,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1354,19,4,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1355,18,2,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1356,19,3,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1357,18,4,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1358,19,2,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1359,19,2,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1360,18,3,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1361,18,3,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1362,18,4,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1363,19,3,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1364,19,4,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1365,18,2,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1366,20,3,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1367,20,3,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1368,19,4,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1369,18,2,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1370,20,2,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1371,20,3,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1372,19,2,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1373,19,4,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1374,20,3,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1375,20,4,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1376,18,3,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1377,18,3,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1378,18,4,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1379,19,4,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1380,19,3,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1381,19,4,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1382,20,3,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1383,18,4,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1384,18,3,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1385,19,2,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1386,20,2,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1387,20,2,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1388,19,4,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1389,19,4,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1390,18,3,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1391,18,2,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1392,18,3,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1393,19,2,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1394,18,4,30,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1395,20,4,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1396,19,2,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1397,20,3,29,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1398,20,4,32,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1399,19,2,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1400,20,2,31,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1401,18,4,28,No,Red-Yellow,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1402,20,4,29,No,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1403,19,2,29,No,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1404,18,4,29,No,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1405,18,2,31,No,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1406,19,4,29,No,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1407,20,2,32,No,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1408,18,3,31,No,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1409,20,4,28,No,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1410,20,2,31,No,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1411,18,2,30,No,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1412,19,4,31,No,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1413,19,3,28,No,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1414,19,2,28,No,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1415,20,4,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1416,19,3,32,Yes,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1417,20,3,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1418,20,2,29,Yes,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1419,20,2,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1420,19,4,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1421,18,2,29,Yes,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1422,19,2,29,Yes,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1423,19,2,30,Yes,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1424,18,3,29,Yes,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1425,18,3,31,Yes,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1426,19,3,32,Yes,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1427,18,4,32,Yes,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1428,20,3,30,Yes,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1429,18,3,28,Yes,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1430,19,2,30,Yes,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1431,19,2,29,Yes,Reddish-Brown,No,No,No,Not ready for inoculation. Tree is not matured enough
+No1432,19,2,31,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1433,20,4,28,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1434,20,3,29,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1435,18,4,28,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1436,18,2,32,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1437,18,4,31,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1438,19,2,31,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1439,19,4,28,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1440,18,3,28,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1441,18,4,31,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1442,18,3,31,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1443,19,3,29,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1444,20,2,29,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1445,18,4,28,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1446,18,2,28,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1447,19,3,28,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1448,18,2,30,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1449,18,2,28,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1450,19,4,28,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1451,18,4,31,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1452,19,2,31,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1453,18,2,29,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1454,18,4,32,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1455,20,4,31,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1456,18,4,30,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1457,18,4,30,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1458,19,4,32,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1459,20,3,31,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1460,18,3,30,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1461,18,3,28,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1462,18,4,31,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1463,18,3,30,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1464,19,4,32,Yes,Reddish-Brown,Yes,No,No,Not ready for inoculation. Tree is not matured enough
+No1465,18,2,31,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1466,19,3,28,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1467,18,3,30,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1468,20,2,30,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1469,20,4,29,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1470,19,2,28,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1471,19,2,29,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1472,20,2,31,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1473,20,3,31,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1474,20,3,30,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1475,18,3,29,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1476,20,3,32,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1477,20,3,31,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1478,20,4,31,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1479,20,3,31,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1480,19,2,31,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1481,18,2,32,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1482,19,2,29,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1483,19,2,31,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1484,18,2,28,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1485,18,2,30,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1486,18,2,30,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1487,20,2,32,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1488,18,3,28,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1489,19,2,30,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1490,19,3,29,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1491,20,2,31,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1492,20,4,28,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1493,18,3,31,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1494,18,4,29,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1495,20,3,32,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1496,18,3,28,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1497,20,2,30,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1498,20,3,28,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
+No1499,18,3,29,Yes,Reddish-Brown,Yes,Yes,No,Not ready for inoculation. Tree is not matured enough
