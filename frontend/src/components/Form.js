@@ -3,11 +3,15 @@ import React, { useState, useEffect } from "react";
 import "./Form.css";
 import axios from "axios";
 import Swal from "sweetalert2";
-import { useHistory } from "react-router-dom";
 import TextField from "@mui/material/TextField";
-import Box from "@mui/material/Box";
 import Button from "@mui/material/Button";
 import Autocomplete from "@mui/material/Autocomplete";
+import CssBaseline from '@mui/material/CssBaseline';
+import AppBar from '@mui/material/AppBar';
+import Toolbar from '@mui/material/Toolbar';
+import Typography from '@mui/material/Typography';
+import { createTheme, ThemeProvider } from '@mui/material/styles';
+import Avatar from '@mui/material/Avatar';
 
 const rain = [
   { label: "Yes", code: "1" },
@@ -46,7 +50,7 @@ const Form = () => {
       event.preventDefault();
       var isSuccess = true;
 
-console.log(rainIn2Weeks);
+    console.log(rainIn2Weeks);
       if (!width) {
         Swal.fire({
           title: "Error!",
@@ -217,70 +221,110 @@ console.log(rainIn2Weeks);
 
   }
   
-
+  const defaultTheme = createTheme();
     return (
       <div>
+        <ThemeProvider theme={defaultTheme}>
+          <CssBaseline />
+            <AppBar
+              sx={{
+                position: 'absolute',
+                borderBottom: (t) => `1px solid ${t.palette.divider}`,
+                backgroundColor:"white",
+                opacity:0.5,
+                boxShadow:"black"
+              }}
+              overlayStyle={{backgroundColor: 'transparent'}}
+            >
+        
+            <Toolbar>
+              <Typography variant="h6" color="black" noWrap sx={{ml:5}}>
+                Agarwood
+              </Typography>
+            </Toolbar>
+          </AppBar>
 
+          <Avatar 
+          sx={{
+            backgroundColor:"black",
+            position: 'absolute',
+            mt:1.4,
+            ml:2}} 
+          alt="Cindy Baker" 
+          src="https://res.cloudinary.com/cake-lounge/image/upload/v1685529590/Pngtree_digital_leaf_tree_company_logo_5075871_cyugx9.jpg" 
+          />
 
 
             <Grid
-             component="form"
-             noValidate
-             onSubmit={handleSubmit}
-             
-             sx={{maxHeight:"70vh"}}
+             container component="main"
+              sx={{
+                backgroundImage:
+                  "url(https://www.wallpaperflare.com/static/806/342/543/alley-aisle-green-trees-wallpaper.jpg)",
+                backgroundRepeat: "no-repeat",
+                backgroundColor: (t) =>
+                  t.palette.mode === "light"
+                    ? t.palette.grey[50]
+                    : t.palette.grey[900],
+                backgroundSize: "cover",
+                backgroundPosition: "center",
+                minHeight:"100vh"
+              }}
              >
 
-            <Grid item xs={8} md={8}>
-
-            <Grid item xs={12} md={12}>
+            <Grid
+                item
+                xs={12}
+                sm={6}
+                md={7}
+                elevation={6}
+                square
+                sx={{backgroundColor:"transparent"}}
+                overlayStyle={{backgroundColor: 'transparent'}}
+                
+              >
+          
               <TextField
                 id="filled-number"
                 label="With of the Tree"
                 type="number"
-                style={{ width: "30vw", marginTop: "50px" }}
+                sx={{ width: "30vw", marginTop: "100px",backgroundColor:'whitesmoke'}}
                 onChange={(e) => setWidth(e.target.value)}
                 InputLabelProps={{
                   shrink: true,
                 }}
                 variant="filled"
+                
               />
-            </Grid>
 
-            <Grid item xs={12} md={12}>
               <TextField
                 id="filled-number"
                 label="Age"
                 type="number"
-                style={{ width: "30vw", marginTop: "50px" }}
+                style={{ width: "30vw", marginTop: "10px",backgroundColor:'whitesmoke' }}
                 onChange={(e) => setAge(e.target.value)}
                 InputLabelProps={{
                   shrink: true,
                 }}
                 variant="filled"
               />
-            </Grid>
 
-            <Grid item xs={12} md={12}>
               <TextField
                 id="filled-number"
                 label="Temperature"
                 type="number"
-                style={{ width: "30vw", marginTop: "50px" }}
+                style={{ width: "30vw", marginTop: "10px",backgroundColor:'whitesmoke' }}
                 onChange={(e) => setTemperature(e.target.value)}
                 InputLabelProps={{
                   shrink: true,
                 }}
                 variant="filled"
               />
-            </Grid>
 
-            <Grid item xs={12} md={12}>
               <Autocomplete
                 id="clear-on-escape"
                 options={rain}
                 clearOnEscape
-                style={{ width: "30vw", marginTop: "30px", marginLeft: "15px" }}
+                style={{ width: "30vw", marginTop: "10px", marginLeft: "218px",backgroundColor:'whitesmoke'  }}
                 renderInput={(params) => (
                   <TextField
                     {...params}
@@ -292,14 +336,12 @@ console.log(rainIn2Weeks);
                   setRainIn2Weeks(newValue);
                 }}
               />
-            </Grid>
 
-            <Grid item xs={12} md={12}>
               <Autocomplete
                 id="clear-on-escape"
                 options={sType}
                 clearOnEscape
-                style={{ width: "30vw", marginTop: "30px", marginLeft: "15px" }}
+                style={{ width: "30vw", marginTop: "10px", marginLeft: "218px",backgroundColor:'whitesmoke'  }}
                 renderInput={(params) => (
                   <TextField
                     {...params}
@@ -311,14 +353,12 @@ console.log(rainIn2Weeks);
                   setSoilType(newValue.code);
                 }}
               />
-            </Grid>
 
-            <Grid item xs={12} md={12}>
               <Autocomplete
                 id="clear-on-escape"
                 options={wRoots}
                 clearOnEscape
-                style={{ width: "30vw", marginTop: "30px", marginLeft: "15px" }}
+                style={{ width: "30vw", marginTop: "10px", marginLeft: "218px",backgroundColor:'whitesmoke' }}
                 renderInput={(params) => (
                   <TextField {...params} label="White Roots" variant="filled" />
                 )}
@@ -326,14 +366,12 @@ console.log(rainIn2Weeks);
                   setWhiteRoots(newValue);
                 }}
               />
-            </Grid>
 
-            <Grid item xs={12} md={12}>
               <Autocomplete
                 id="clear-on-escape"
                 options={pAttacks}
                 clearOnEscape
-                style={{ width: "30vw", marginTop: "30px", marginLeft: "15px" }}
+                style={{ width: "30vw", marginTop: "10px", marginLeft: "218px",backgroundColor:'whitesmoke' }}
                 renderInput={(params) => (
                   <TextField
                     {...params}
@@ -345,14 +383,12 @@ console.log(rainIn2Weeks);
                   setPestAttacks(newValue);
                 }}
               />
-            </Grid>
 
-            <Grid item xs={12} md={12}>
               <Autocomplete
                 id="clear-on-escape"
                 options={fSeason}
                 clearOnEscape
-                style={{ width: "30vw", marginTop: "30px", marginLeft: "15px" }}
+                style={{ width: "30vw", marginTop: "10px", marginLeft: "218px",backgroundColor:'whitesmoke' }}
                 renderInput={(params) => (
                   <TextField
                     {...params}
@@ -364,12 +400,11 @@ console.log(rainIn2Weeks);
                   setFloweringSeason(newValue.code);
                 }}
               />
-            </Grid>
+            
 
-            <Grid item xs={12} md={12}>
               <Button
                 variant="contained"
-                type="submit"
+                onClick={handleSubmit}
                 style={{
                   width: "30vw",
                   marginTop: "50px",
@@ -378,19 +413,35 @@ console.log(rainIn2Weeks);
               >
                 Prediction
               </Button>
-            </Grid>
 
             </Grid>
 
-            <Grid item xs={4} md={4}>
-                hi
+            <Grid
+              item
+              xs={false}
+              sm={6}
+              md={5}
+              sx={{
+                backgroundColor: "none",
+              }}
+            >
+              <div style={{ fontWeight: "bold", marginTop: "100px" }} id="banner_id">
+                
+              <Avatar
+                alt="Agarwood"
+                src="https://res.cloudinary.com/cake-lounge/image/upload/v1685529590/Pngtree_digital_leaf_tree_company_logo_5075871_cyugx9.jpg"
+                sx={{ width: 300, height: 300,ml:10 }}
+              />
+
+              </div>
+              
             </Grid>
 
-            </Grid>
+        </Grid>
 
-
-      </div>
-    );
-  }
+     </ThemeProvider>
+    </div>
+  );
+}
 
 export default Form;
