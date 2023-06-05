@@ -1,5 +1,5 @@
 import { Grid} from "@mui/material";
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect,useRef } from "react";
 import "./Form.css";
 import axios from "axios";
 import Swal from "sweetalert2";
@@ -10,8 +10,10 @@ import CssBaseline from '@mui/material/CssBaseline';
 import AppBar from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
-import { createTheme, ThemeProvider } from '@mui/material/styles';
+import { createTheme, ThemeProvider,styled } from '@mui/material/styles';
 import Avatar from '@mui/material/Avatar';
+
+
 
 const rain = [
   { label: "Yes", code: "1" },
@@ -34,6 +36,12 @@ const fSeason = [
   { label: "Yes", code: "1" },
   { label: "No", code: "0" },
 ];
+
+const StyledAutocomplete = styled(Autocomplete)({
+  "& .MuiAutocomplete-inputRoot": {
+    color: "white",
+  }
+});
 
 const Form = () => {
 
@@ -221,7 +229,22 @@ const Form = () => {
 
   }
   
-  const defaultTheme = createTheme();
+
+  const defaultTheme = createTheme({
+    
+    palette: {
+      white: {
+        main: '#ffffff',
+        contrastText: '#ffffff',
+      },
+    },
+  });
+
+  const inputStyle = {
+    color: '#ffffff', // Change the color to your desired color
+  };
+
+  
     return (
       <div>
         <ThemeProvider theme={defaultTheme}>
@@ -259,7 +282,7 @@ const Form = () => {
              container component="main"
               sx={{
                 backgroundImage:
-                  "url(https://www.wallpaperflare.com/static/806/342/543/alley-aisle-green-trees-wallpaper.jpg)",
+                  "url(https://res.cloudinary.com/cake-lounge/image/upload/v1685946554/ag1_e3v0dx.jpg)",
                 backgroundRepeat: "no-repeat",
                 backgroundColor: (t) =>
                   t.palette.mode === "light"
@@ -287,49 +310,61 @@ const Form = () => {
                 id="filled-number"
                 label="With of the Tree"
                 type="number"
-                sx={{ width: "30vw", marginTop: "100px",backgroundColor:'whitesmoke'}}
+                sx={{ width: "30vw", marginTop: "150px"}}
                 onChange={(e) => setWidth(e.target.value)}
                 InputLabelProps={{
                   shrink: true,
                 }}
-                variant="filled"
-                
+                variant="standard"
+                color="white"
+                focused
+                inputProps={{ style: inputStyle }}
               />
 
               <TextField
                 id="filled-number"
                 label="Age"
                 type="number"
-                style={{ width: "30vw", marginTop: "10px",backgroundColor:'whitesmoke' }}
+                style={{ width: "30vw", marginTop: "10px" }}
                 onChange={(e) => setAge(e.target.value)}
                 InputLabelProps={{
                   shrink: true,
                 }}
-                variant="filled"
+                variant="standard"
+                color="white"
+                focused
+                inputProps={{ style: inputStyle }}
               />
 
               <TextField
                 id="filled-number"
                 label="Temperature"
                 type="number"
-                style={{ width: "30vw", marginTop: "10px",backgroundColor:'whitesmoke' }}
+                style={{ width: "30vw", marginTop: "10px",backgroundColor:'transparent' }}
                 onChange={(e) => setTemperature(e.target.value)}
                 InputLabelProps={{
                   shrink: true,
                 }}
-                variant="filled"
+                variant="standard"
+                color="white"
+                focused
+                inputProps={{ style: inputStyle }}
               />
 
-              <Autocomplete
+              <StyledAutocomplete
                 id="clear-on-escape"
                 options={rain}
                 clearOnEscape
-                style={{ width: "30vw", marginTop: "10px", marginLeft: "218px",backgroundColor:'whitesmoke'  }}
+                className="custom-autocomplete"
+                style={{ width: "30vw", marginTop: "10px", marginLeft: "218px",backgroundColor:'transparent' }}
                 renderInput={(params) => (
                   <TextField
                     {...params}
                     label="Rain Expected in two weeks"
-                    variant="filled"
+                    variant="standard"
+                    color="white"
+                    focused
+                    
                   />
                 )}
                 onChange={(event, newValue) => {
@@ -337,16 +372,18 @@ const Form = () => {
                 }}
               />
 
-              <Autocomplete
+              <StyledAutocomplete
                 id="clear-on-escape"
                 options={sType}
                 clearOnEscape
-                style={{ width: "30vw", marginTop: "10px", marginLeft: "218px",backgroundColor:'whitesmoke'  }}
+                style={{ width: "30vw", marginTop: "10px", marginLeft: "218px",backgroundColor:'transparent'  }}
                 renderInput={(params) => (
                   <TextField
                     {...params}
                     label="Soil type"
-                    variant="filled"
+                    variant="standard"
+                    color="white"
+                    focused
                   />
                 )}
                 onChange={(event, newValue) => {
@@ -354,29 +391,35 @@ const Form = () => {
                 }}
               />
 
-              <Autocomplete
+              <StyledAutocomplete
                 id="clear-on-escape"
                 options={wRoots}
                 clearOnEscape
-                style={{ width: "30vw", marginTop: "10px", marginLeft: "218px",backgroundColor:'whitesmoke' }}
+                style={{ width: "30vw", marginTop: "10px", marginLeft: "218px",backgroundColor:'transparent' }}
                 renderInput={(params) => (
-                  <TextField {...params} label="White Roots" variant="filled" />
+                  <TextField {...params} label="White Roots" 
+                  variant="standard"
+                  color="white"
+                  focused 
+                  />
                 )}
                 onChange={(event, newValue) => {
                   setWhiteRoots(newValue);
                 }}
               />
 
-              <Autocomplete
+              <StyledAutocomplete
                 id="clear-on-escape"
                 options={pAttacks}
                 clearOnEscape
-                style={{ width: "30vw", marginTop: "10px", marginLeft: "218px",backgroundColor:'whitesmoke' }}
+                style={{ width: "30vw", marginTop: "10px", marginLeft: "218px",backgroundColor:'transparent' }}
                 renderInput={(params) => (
                   <TextField
                     {...params}
                     label="Pest Attacks"
-                    variant="filled"
+                    variant="standard"
+                    color="white"
+                    focused
                   />
                 )}
                 onChange={(event, newValue) => {
@@ -384,16 +427,18 @@ const Form = () => {
                 }}
               />
 
-              <Autocomplete
+              <StyledAutocomplete
                 id="clear-on-escape"
                 options={fSeason}
                 clearOnEscape
-                style={{ width: "30vw", marginTop: "10px", marginLeft: "218px",backgroundColor:'whitesmoke' }}
+                style={{ width: "30vw", marginTop: "10px", marginLeft: "218px",backgroundColor:'transparent' }}
                 renderInput={(params) => (
                   <TextField
                     {...params}
                     label="Flowering Season"
-                    variant="filled"
+                    variant="standard"
+                    color="white"
+                    focused
                   />
                 )}
                 onChange={(event, newValue) => {
