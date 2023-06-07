@@ -12,8 +12,9 @@ import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import { createTheme, ThemeProvider,styled } from '@mui/material/styles';
 import Avatar from '@mui/material/Avatar';
-
-
+import Container from '@mui/material/Container';
+import Paper from '@mui/material/Paper';
+import AdbIcon from '@mui/icons-material/Adb';
 
 const rain = [
   { label: "Yes", code: "1" },
@@ -244,39 +245,48 @@ const Form = () => {
     color: '#ffffff', // Change the color to your desired color
   };
 
-  
+  const styles = {
+    testBackground: {
+      backgroundSize: "cover",
+      backgroundPosition: "center",
+      width: "100%",
+      backgroundColor:"currentColor",
+      opacity:0.75
+    }
+  };
     return (
       <div>
         <ThemeProvider theme={defaultTheme}>
           <CssBaseline />
-            <AppBar
-              sx={{
-                position: 'absolute',
-                borderBottom: (t) => `1px solid ${t.palette.divider}`,
-                backgroundColor:"white",
-                opacity:0.5,
-                boxShadow:"black"
-              }}
-              overlayStyle={{backgroundColor: 'transparent'}}
-            >
-        
-            <Toolbar>
-              <Typography variant="h6" color="black" noWrap sx={{ml:5}}>
+
+          <AppBar position="static" sx={{backgroundColor:"#115f00"}}>
+            <Container maxWidth="xl">
+              <Toolbar disableGutters>
+              <Avatar
+                alt="Agarwood"
+                src="https://res.cloudinary.com/cake-lounge/image/upload/v1685529590/Pngtree_digital_leaf_tree_company_logo_5075871_cyugx9.jpg"
+                sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }}
+              /> 
+                <Typography
+                  variant="h6"
+                  noWrap
+                  component="a"
+                  href="https://res.cloudinary.com/cake-lounge/image/upload/v1685529590/Pngtree_digital_leaf_tree_company_logo_5075871_cyugx9.jpg"
+                  sx={{
+                    mr: 2,
+                    display: { xs: 'none', md: 'flex' },
+                    fontFamily: 'monospace',
+                    fontWeight: 700,
+                    letterSpacing: '.3rem',
+                    color: 'inherit',
+                    textDecoration: 'none',
+                  }}
+                >
                 Agarwood
               </Typography>
-            </Toolbar>
+              </Toolbar>
+            </Container>
           </AppBar>
-
-          <Avatar 
-          sx={{
-            backgroundColor:"black",
-            position: 'absolute',
-            mt:1.4,
-            ml:2}} 
-          alt="Cindy Baker" 
-          src="https://res.cloudinary.com/cake-lounge/image/upload/v1685529590/Pngtree_digital_leaf_tree_company_logo_5075871_cyugx9.jpg" 
-          />
-
 
             <Grid
              container component="main"
@@ -290,7 +300,8 @@ const Form = () => {
                     : t.palette.grey[900],
                 backgroundSize: "cover",
                 backgroundPosition: "center",
-                minHeight:"100vh"
+                minHeight:"100vh",
+                position:"absolute"
               }}
              >
 
@@ -301,16 +312,15 @@ const Form = () => {
                 md={7}
                 elevation={6}
                 square
-                sx={{backgroundColor:"transparent"}}
-                overlayStyle={{backgroundColor: 'transparent'}}
-                
+                style={styles.testBackground}
+                overlayStyle={{backgroundColor: 'white'}}
               >
-          
+              
               <TextField
                 id="filled-number"
                 label="With of the Tree"
                 type="number"
-                sx={{ width: "30vw", marginTop: "150px"}}
+                sx={{ width: "30vw", marginTop: "80px"}}
                 onChange={(e) => setWidth(e.target.value)}
                 InputLabelProps={{
                   shrink: true,
@@ -325,7 +335,7 @@ const Form = () => {
                 id="filled-number"
                 label="Age"
                 type="number"
-                style={{ width: "30vw", marginTop: "10px" }}
+                style={{ width: "30vw" }}
                 onChange={(e) => setAge(e.target.value)}
                 InputLabelProps={{
                   shrink: true,
@@ -458,6 +468,7 @@ const Form = () => {
               >
                 Prediction
               </Button>
+              
 
             </Grid>
 
@@ -466,22 +477,21 @@ const Form = () => {
               xs={false}
               sm={6}
               md={5}
-              sx={{
-                backgroundColor: "none",
-              }}
+              sx={{backgroundColor:"currentColor",opacity:0.75}}
+                overlayStyle={{backgroundColor: 'white'}}
             >
-              <div style={{ fontWeight: "bold", marginTop: "100px" }} id="banner_id">
+              <div style={{ fontWeight: "bold", marginTop: "50px" }} id="banner_id" >
                 
-              <Avatar
-                alt="Agarwood"
-                src="https://res.cloudinary.com/cake-lounge/image/upload/v1685529590/Pngtree_digital_leaf_tree_company_logo_5075871_cyugx9.jpg"
-                sx={{ width: 300, height: 300,ml:10 }}
-              />
+              
 
               </div>
               
             </Grid>
-
+          <Avatar
+                alt="Agarwood"
+                src="https://res.cloudinary.com/cake-lounge/image/upload/v1685529590/Pngtree_digital_leaf_tree_company_logo_5075871_cyugx9.jpg"
+                sx={{ width: 300, height: 300,ml:120,mt:20,position: 'absolute',}}
+              />
         </Grid>
 
      </ThemeProvider>
